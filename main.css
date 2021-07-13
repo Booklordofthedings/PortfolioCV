@@ -2,12 +2,24 @@
     #191D32
     #282F44
     #453A49
-    #453A49
     #BA2C73
 */
 body {
     margin: 0;
+    color:#BA2C73;
+}
+image {
+    padding: 1rem;
+}
+h1 {
+    margin-top: 0;
+    padding:1rem;
 }
 #header {
     background-color:#282F44;
+}
+.noLink {
+    color:#BA2C73;
+    text-decoration: none;
+    border: none;
 }
