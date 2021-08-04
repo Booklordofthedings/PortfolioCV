@@ -21,7 +21,7 @@ body {
 .nav-link {
     color:#BA2C73 !important; 
 }
-h3 {
+h3 ,h5,h1,h2,h4{
     margin-bottom: 0;
 }
 #padded {
@@ -39,4 +39,9 @@ h3 {
         padding:0.5rem;
         border-color: #202535;
     }
+}
+
+warning {
+    text-align: center;
+    color: red;
 }
