@@ -37,6 +37,10 @@ h3 ,h5,h1,h2,h4{
 
 .card{
     margin:3rem 0rem 3rem 0rem;
+    background-color:#282F44;
+}
+.card-body {
+    background-color:#262e48;
 }
 
 @media (min-width: 768px) {
