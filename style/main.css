@@ -29,11 +29,17 @@ h3 ,h5,h1,h2,h4{
     padding-left: 1.5rem;
     padding-right: 1.5rem;
 }
+.padded {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
 #border {
     border-style:none none solid none;
     padding:0.5rem;
     border-color: #202535;
 }
+.center {text-align: center;}
+.pad {padding:2rem;}
 
 .card{
     margin:3rem 0rem 3rem 0rem;
